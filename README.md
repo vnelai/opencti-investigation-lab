@@ -2,8 +2,6 @@
 
 This GitHub project documents a hands-on investigation using the **OpenCTI platform** to analyze malware, intrusion sets, attack techniques, and indicators. The investigation simulates a real-world SOC/CTI analyst workflow.
 
-> 🔍 Based on TryHackMe's OpenCTI room — rewritten, paraphrased, and expanded for public blog and recruiter-friendly showcase.
-
 ---
 
 ## 📂 Contents
@@ -80,6 +78,6 @@ This project demonstrates:
 ---
 
 ### 👀 Want to learn more?
-See the accompanying blog post at: `[YourBlogLinkHere]`
+See the accompanying blog post at: `[BlogLink_Pending]`
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/virginianelai) or view more projects at `[YourPortfolioLinkHere]`
+Connect with me on [LinkedIn](https://www.linkedin.com/in/virginianelai) or view more projects at `[MyPortfolioLinkHere]`
