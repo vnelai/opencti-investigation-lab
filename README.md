@@ -32,10 +32,6 @@ This GitHub project documents a hands-on investigation using the **OpenCTI platf
   ➤ Country: North Korea, Initial Access Techniques: T1189, T1566
   ![APT37 Initial Access Techniques](./screenshots/apt37_initial_access.png)
 
-- [`ioc_handling.md`](./ioc_handling.md)  
-  ➤ Where indicators live in OpenCTI (Observations tab)
-  ![Indicators in Observations Tab](./screenshots/observations_iocs.png)
-
 - [`mitre_mapping.md`](./mitre_mapping.md)  
   ➤ Summary of MITRE ATT&CK TTPs and Kill Chain mappings used in this lab
 
