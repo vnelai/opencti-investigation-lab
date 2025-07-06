@@ -74,6 +74,6 @@ This project demonstrates:
 ---
 
 ### 👀 Want to learn more?
-See the accompanying blog post at: `[BlogLink_Pending]`
+See the accompanying blog post at: `[(https://www.virginianelai.com/blog/opencti-threat-intelligence-lab)]`
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/virginianelai) or view more projects at `[MyPortfolioLinkHere]`
+Connect with me on [LinkedIn](https://www.linkedin.com/in/virginianelai) or view more projects at `[[MyPortfolioLinkHere](https://www.virginianelai.com/projects)]`
